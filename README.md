@@ -41,9 +41,14 @@ Possui uma memoria interna de 1KB organizada em 8 linhas com 128 segmentos em ca
 |Numero de linhas de caracteres|7|
 |memória                       |1KB|
 
-![alt text](https://www.ckn.io/images/13-oled-1.png)
 
-OLED Pinout
+
+
+
+
+![OLED Pinout](https://www.ckn.io/images/13-oled-1.png)
+
+
 
 GND - pino do terra 0v
 
