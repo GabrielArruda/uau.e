@@ -49,7 +49,7 @@ Possui uma memoria interna de 1KB organizada em 8 linhas com 128 segmentos em ca
 ![OLED Pinout](https://www.ckn.io/images/13-oled-1.png)
 
 
-
+# OLED Pinout
 GND - pino do terra 0v
 
 VCC - entrada de tensão min 3.3v
