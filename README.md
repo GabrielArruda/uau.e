@@ -3,7 +3,7 @@ Robô com expressoes.
 
 Um robô controlado por celular via aplicativo blynk, que mostrará expressões pré-escolhidas em uma tela OLED 0.96" SSD1306 , usando Node MCU ESP8266 para receber e processar os dados.
 
-# Materiais:
+## Materiais:
 
 •	NodeMCU ESP8266
 
@@ -49,7 +49,7 @@ Possui uma memoria interna de 1KB organizada em 8 linhas com 128 segmentos em ca
 ![OLED Pinout](https://www.ckn.io/images/13-oled-1.png)
 
 
-# OLED Pinout
+## OLED Pinout
 GND - pino do terra 0v
 
 VCC - entrada de tensão min 3.3v
