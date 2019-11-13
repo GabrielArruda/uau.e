@@ -7,8 +7,6 @@ Um robô controlado por celular via aplicativo blynk, que mostrará expressões 
 
 •	NodeMCU ESP8266
 
-•	Conversor nível lógico
-
 •	Motores DC 5V
 
 •	Driver motor ponte H L298N
