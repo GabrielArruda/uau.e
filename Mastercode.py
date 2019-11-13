@@ -88,7 +88,7 @@ tim.init(period=100,mode=Timer.PERIODIC,callback=read)
 wlan = network.WLAN(network.STA_IF)
 wlan.active(True)
 wlan.scan()
-wlan.connect('Igorrrrr', '31415igor')
+wlan.connect('SSID', 'Password')
 
 ap = network.WLAN(network.AP_IF)
 ap.active(True)
