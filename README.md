@@ -55,5 +55,5 @@ SDA - pino de dados serial para interface I2C
 
 ## Montagem do Circuito
 
-<img src="circuito UAE.e.PNG" width="200" height="300">
+<img src="circuito UAU.e.PNG" width="600" height="500">
 
