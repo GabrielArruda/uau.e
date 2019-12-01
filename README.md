@@ -48,3 +48,7 @@ SCL - pino de clock serial para interface I2C
 
 SDA - pino de dados serial para interface I2C
 
+## Montagem do Robô
+
+<img src="IMG_20191130_145302617.jpg" width="500" height="400">
+<img src="IMG_20191130_145245673.jpg" width="500" heigth+"400">
