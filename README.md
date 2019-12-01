@@ -52,3 +52,7 @@ SDA - pino de dados serial para interface I2C
 
 <img src="IMG_20191130_145302617.jpg" width="500" height="400">
 <img src="IMG_20191130_145245673.jpg" width="500" heigth+"400">
+
+## Montagem do Circuito
+
+<img src="C:\Users\lucas\Desktop\Microcontroladores e Microprocessadores.png" width="500" height="400">
