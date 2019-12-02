@@ -48,12 +48,32 @@ SCL - pino de clock serial para interface I2C
 
 SDA - pino de dados serial para interface I2C
 
+## Blynk
+
+Projeto do controle do robô criado no app Blynk
+
+<img src="Screenshot_20191202-115910[1].jpg" width="300" height="500">
+
+Configuração dos botões 
+
+<img src="Screenshot_20191202-115940[1].jpg" width="300" height="500">
+
+Configuração do menu
+
+<img src="Screenshot_20191202-115954[1].jpg" width="300" height="500">
+
+Configuração da placa e do token
+
+<img src="Screenshot_20191202-115929[1].jpg" width="300" height="500">
+
+## Montagem do Circuito
+
+<img src="circuito UAU.e.PNG" width="600" height="500">
+
 ## Montagem do Robô
 
 <img src="IMG_20191130_145302617.jpg" width="500" height="400">
 <img src="IMG_20191130_145245673.jpg" width="500" heigth+"400">
 
-## Montagem do Circuito
 
-<img src="circuito UAU.e.PNG" width="600" height="500">
 
