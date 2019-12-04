@@ -1,13 +1,18 @@
 
 
 
-from machine import Pin, I2C, Timer
+from machine import Pin, I2C, Timer, PWM
 from time import sleep
 import time
 import ssd1306
 import framebuf
 import urequests as requests
 import network
+
+mot1 = PWM(Pin(0, 5000))
+mot1.duty(400)
+mot2 = PWM(Pin(2, 5000))
+mot2.duty(350)
 
 tim = Timer(-1)
 
