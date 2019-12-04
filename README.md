@@ -68,7 +68,7 @@ Configuração da placa e do token
 
 ## Montagem do Circuito
 
-<img src="circuito UAU.e.PNG" width="600" height="500">
+<img src="Circuito UAU.e.PNG" width="600" height="500">
 
 ## Montagem do Robô
 
