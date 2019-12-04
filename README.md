@@ -77,3 +77,5 @@ Configuração da placa e do token
 
 
 
+Video do funcionamento:
+https://youtu.be/iXfSD9A_K8w
